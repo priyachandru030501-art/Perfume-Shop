@@ -8,19 +8,13 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Perfume-Shop">
       <Routes>
-
         <Route path="/" element={<Home />} />
-
         <Route path="/menu" element={<Menu />} />
-
         <Route path="/cart" element={<Cart />} />
-
         <Route path="/about" element={<About />} />
-
         <Route path="/contact" element={<Contact />} />
-
       </Routes>
     </BrowserRouter>
   );
