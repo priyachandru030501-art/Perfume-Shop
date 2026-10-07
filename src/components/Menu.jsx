@@ -62,7 +62,7 @@ function Menu() {
       category: "Lavender",
       price: 1399,
       image:
-        "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?auto=format&fit=crop&w=700&q=80",
+        "https://5.imimg.com/data5/SELLER/Default/2025/12/567419369/CY/ND/GT/247466226/luxury-car-perfume-lavender-bliss-air-freshener-bottle.jpg",
     },
   ];
 
